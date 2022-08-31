@@ -15,7 +15,7 @@ from aiogram import Dispatcher, types, Bot
 from aiogram.utils import executor
 import random
 # твой токен который ты получишь после создания бота у @BotFather
-TOKEN = '5653921692:AAHiyjtA10OBzQEr-9iy-ktFk-64eTHYAmY'
+TOKEN = '000000000000000000000000000000000000'
 
 # объекты бота
 bot = Bot(TOKEN)
